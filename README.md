@@ -14,4 +14,4 @@ DS proj 3 -  Predicting recurrance of breast cancer based on histopathological f
 
 
 DS proj 4 -  Attempting to use CNN and transfer learning to differentiate the different histopathological types of non small cell lung carcinomas (NSCLC) using just CT scans
-This notebook attempted to  differentiate the different histopathological types of lung carcinomas using just CT scans (i.e without invasively taking histopathological samples) via a basic 12 layered CNN and later applies a transfer learning approach with ResNet50 ,a very deep CNN model that has been pre trained using a massive image set called imagenet to try to imporve accuracy.
+This notebook attempted to  differentiate the different histopathological types of lung carcinomas using just CT scans (i.e without invasively taking histopathological samples) via a basic 12 layered CNN and later applied a transfer learning approach with ResNet50 ,a very deep CNN model that has been pre trained using a massive image set called imagenet to try to imporve accuracy.
