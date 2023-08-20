@@ -1,5 +1,4 @@
-# PROJECT PROFILES
-
+# PROJECTS DEVELOPED IN MEDICAL SCHOOL 2022
 
 1. Predicting Type 2 Diabetes Mellitus using Clinical Symptoms: A Machine Learning Approach
 
